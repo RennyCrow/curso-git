@@ -8,7 +8,7 @@ namespace ProjetoTeste
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Cruel World!");
-            Console.WriteLine("How are You today? ");
+            Console.WriteLine("I'll scream your name if my last breath!");
         }
     }
 }
